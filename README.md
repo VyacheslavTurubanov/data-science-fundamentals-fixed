@@ -15,6 +15,21 @@ These issues have been resolved to make the project reproducible and runnable lo
 
 ---
 
+## Common Issues
+
+If you see errors like:
+
+ModuleNotFoundError
+
+Make sure:
+- You are using Python 3.11–3.12
+- You ran: poetry install
+- You started Jupyter via: poetry run jupyter notebook
+
+If Poetry uses wrong Python version:
+
+poetry env use python3.12
+
 ## Requirements
 
 * Python **3.11–3.12** (⚠️ Python 3.13+ is NOT supported)
