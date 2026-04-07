@@ -33,6 +33,8 @@ These issues have been resolved to make the project reproducible and runnable lo
 3. Install dependencies:
 
 ```bash
+
+poetry env use python3.12
 poetry install
 ```
 

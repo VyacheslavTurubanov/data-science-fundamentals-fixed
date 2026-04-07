@@ -2,7 +2,7 @@
 name = "sql-tutorial"
 version = "0.1.0"
 description = "Fixed local environment for the Share Network SQL/Pandas lecture notebooks"
-authors = ["Amity Aharoni <amity@share-network.org>"]
+authors = ["Amity Aharoni <amity@share-network.org>", "Viacheslav Turubanov"]
 readme = "README.md"
 package-mode = false
 
